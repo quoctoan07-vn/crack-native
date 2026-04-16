@@ -1,4 +1,4 @@
-# REALME.md – Frida Hook Script
+# Frida Hook Script
 
 This file contains the Frida JavaScript code that hooks `strlen` in `libc.so` to replace a target URL in memory, similar to the C++ technique described earlier.
 
